@@ -1,0 +1,10 @@
+.share-buttons {
+	float: right;
+	margin-right: -12px;
+	padding-top: 4px;
+}
+
+.share-buttons .network {
+	display: inline-block;
+}
+
